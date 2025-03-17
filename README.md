@@ -18,5 +18,5 @@
 14. 김기성
 
 ### 우리들의 사진
-![image 1] (.image/멤버1.jpg)
-![image 2] (.image/멤버2.jpg)
+![image 1](image/멤버1.jpg)
+![image 2](image/멤버2.jpg)
