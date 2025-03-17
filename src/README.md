@@ -17,6 +17,6 @@
 13. 최승균
 14. 김기성
 
-###우리들의 사진
-![image] (.imgae/2025&AI_사진_멤버.1.jpg)
-![image] (.imgae/2025&AI_사진_멤버.2.jpg)
+### 우리들의 사진
+![image] (.imgae/멤버1.jpg)
+![image] (.imgae/멤버2.jpg)
